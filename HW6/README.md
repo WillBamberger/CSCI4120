@@ -3,10 +3,12 @@
 ### bambergerw22@students.ecu.edu, geibs24@students.ecu.edu
 
 ## Dependencies: 
-### Sklearn, Yell==owbrick, SciPy, NumPy, Seaborn, Matplotlib
+### Sklearn, numpy, pandas
 
 ## To Run:
-### run the command 'python3 -i hw2.py' in a terminal from the directory containing the hw2.py file
+### Open HW6.ipynb in jupyter and run the first cell
 
 ## Final Result:
-### The best K value was 4, and our best accuracy was 100%.
+### Random Forest Accuracy: 0.929439
+### Accuracy: 0.951049
+### Accuracy/feature: 0.475524
