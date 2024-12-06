@@ -1,4 +1,4 @@
-# KMeans_HW2
+# KMeans_HW5
 ## Will Bamberger, Samuel Geib
 ### bambergerw22@students.ecu.edu, geibs24@students.ecu.edu
 
